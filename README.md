@@ -38,7 +38,8 @@ Data storytelling — structuring multiple views into one cohesive dashboard
 
 📈 Dashboard Preview
 
-Show Image
+<img width="1879" height="879" alt="EV CARS " src="https://github.com/user-attachments/assets/e8fd6996-208e-46df-8df3-807c5c0debae" />
+
 
 🔗 View the live interactive dashboard on Tableau Public
 
